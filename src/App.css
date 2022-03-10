@@ -88,6 +88,7 @@ b {
 }
 
 .fbg {
+    font-size: 20px;
     color: blue;
 }
 
@@ -212,7 +213,6 @@ b {
 }
 
 svg {
-    position: absolute;
     top: 0;
     left: 0;
 }
